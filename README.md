@@ -1,4 +1,4 @@
 CUTextExample
 =============
 
-demo
+Example For NSAttributedString
